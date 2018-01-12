@@ -1,0 +1,32 @@
+body{
+    font:14px Hiragino Sans GB,Microsoft Yahei UI,Microsoft Yahei,\\5FAE\8F6F\96C5\9ED1,Segoe UI,Tahoma,"\5B8B\4F53  b8b\4F53",SimSun,sans-serif;
+    color:#000;
+    padding:0;
+    margin:0;
+}
+h1,h2,h3,h4,h5,h6,p,ul,ol,dl,dd{
+    padding:0;
+    margin:0;
+    list-style:none;
+}
+a{
+    color:#000;
+    text-decoration:none;
+}
+a:hover{
+    text-decoration:underline;
+}
+img{
+    vertical-align:middle;
+}
+.clear:after{
+    content:"";
+    display:block;
+    clear:both;
+}
+.rf{
+    float:right;
+}
+.lf{
+    float:left;
+}
